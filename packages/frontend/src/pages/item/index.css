@@ -1,0 +1,28 @@
+.body {
+  background-color: rgb(15, 15, 44);
+  color: #fff;
+}
+.Itemcontainer {
+  justify-content: center;
+  background: #131333;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+.title{
+  justify-content: center;
+  text-align: center;
+  text-justify: inter-word;
+  font-size: 40px;
+  font-weight: 300;
+  margin-top: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}

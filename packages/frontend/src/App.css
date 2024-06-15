@@ -1,0 +1,10 @@
+.body{
+  background-color: rgb(15, 15, 44);
+  color: #fff;
+}
+
+.card__container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

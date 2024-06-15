@@ -1,0 +1,15 @@
+.cart__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 12px;
+  margin: 5px 15px;
+}
+.btn__checkout{
+  padding: 7px 7px;
+  color: #fff;
+  background-color: blueviolet;
+  border: blueviolet;
+  border-radius: 2px;
+  margin-left: 5px;
+}
