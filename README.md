@@ -18,27 +18,6 @@ This project is a monorepo containing a React frontend and an Express.js backend
 
 Follow these instructions to set up the project on your local machine for development and testing.
 
-## Project Structure
-
-monorepo/
-├── packages/
-│ ├── backend/ # Express.js backend
-│ │ ├── index.js
-│ │ ├── .env
-│ │ └── package.json
-│ ├── frontend/ # React frontend
-│ │ ├── src/
-│ │ │ ├── components/
-│ │ │ ├── pages/
-│ │ │ ├── App.js
-│ │ │ └── index.js
-│ │ ├── public/
-│ │ └── package.json
-├── package.json # Root package.json for managing monorepo
-└── README.md
-
-markdown
-Copy code
 
 ## Features
 
@@ -59,7 +38,7 @@ Copy code
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/azamali123456/Stripe-Abended-Form-With-Mono-Repo
     cd your-repo-name
     ```
 
@@ -101,10 +80,10 @@ The frontend should now be accessible at `http://localhost:3000` and the backend
 ## Screenshots
 
 ### Custom Card Form
-![Custom Card Form](path/to/your/image1.png)
+![Custom Card Form](./addToCart.png)
 
 ### Cart and Checkout
-![Cart and Checkout](path/to/your/image2.png)
+![Cart and Checkout](./stripePage.png)
 
 ## License
 
